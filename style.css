@@ -45,24 +45,26 @@ h1 {
 	Write your solution here!
    ========================== */
 
-.title-text {
+body {
 	text-align: center;
+}
+
+.title-text {
 	padding: 15px;
 }
 
 .section-title {
-	text-align: center;
 	margin-top: 90px;
+	border-bottom: 3px solid #e6e6e6;
+	padding: 5px;
 }
 
 .container {
 	margin: 0 auto;
 	width: 600px;
-	text-align: center;
 }
 
 .text {
-	border-top: 3px solid #e6e6e6;
 	padding-top: 40px;
 }
 
